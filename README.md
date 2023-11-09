@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Ali Hakim
-- 👀 I’m interested in web programing
-- 🌱 I’m currently learning front and back end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me AliHakim7732@gmail.com
+### Hi there 👋, I'm Ali Hakim
+#### Full-Stack Web Developer
+I’m a full stack junior web-developer. I can find and solve your code bugs easily thus increasing your productivity greatly. My expertise lies in the front and the back end of your web pages, and my main frameworks are Laravel and Django for back-end, ReactJS and VueJS for front-end. Watching movies and reading books are my favorite pastime hobbies.
 
-<!---
-AliHakim773/AliHakim773 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on improving myself 
+- 🌱 I’m currently learning SQL 
+- 📫 How to reach me: AliHakim7732@gmail.com 
+- ⚡ Fun fact: I am a gamer 
