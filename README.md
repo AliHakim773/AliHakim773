@@ -20,4 +20,5 @@ I’m a full stack junior web-developer. I can find and solve your code bugs eas
 - 📫 How to reach me: AliHakim7732@gmail.com 
 - ⚡ Fun fact: I am a gamer
 
+## Social Links
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AliHakim773)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ali-hakim-923657227//)  
