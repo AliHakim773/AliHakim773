@@ -5,7 +5,8 @@
 ## BIO
 I’m a full stack junior web-developer. I can find and solve your code bugs easily thus increasing your productivity greatly. My expertise lies in the front and the back end of your web pages, and my main frameworks are Laravel and Django for back-end, ReactJS and VueJS for front-end. Watching movies and reading books are my favorite pastime hobbies.
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihakim773&theme=transparent&show_icons=true)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihakim773&theme=transparent&show_icons=true) 
+![Task-Manager repo](https://github-readme-stats.vercel.app/api/pin/?username=alihakim773&repo=Task-Manager&cache_seconds=86400&theme=transparent)
 
 ## Skills
 - REACT
