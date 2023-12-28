@@ -16,7 +16,7 @@ I’m a full stack junior web-developer. I can find and solve your code bugs eas
 
 ## More About Me
 - 🔭 I’m currently working on improving myself 
-- 🌱 I’m currently learning SQL 
+- 🌱 I’m currently learning more about node and sockets
 - 📫 How to reach me: AliHakim7732@gmail.com 
 - ⚡ Fun fact: I love to play games
 
