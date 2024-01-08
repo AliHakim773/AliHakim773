@@ -8,8 +8,14 @@ I’m a full stack junior web-developer. I can find and solve your code bugs eas
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihakim773&theme=transparent&show_icons=true) 
 
 ## Skills
-- REACT
+- REACTJS
+- VUEJS
+- Laravel
+- NodeJS
+- Django
+- ASP.NET 6
 - SQL
+- PHP
 - JS
 - HTML
 - CSS
