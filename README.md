@@ -3,7 +3,7 @@
  <img src='https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png' alt='Hellow world' >
 
 ## BIO
-I’m a full stack junior web-developer. I can find and solve your code bugs easily thus increasing your productivity greatly. My expertise lies in the front and the back end of your web pages, and my main frameworks are Laravel and Django for back-end, ReactJS and VueJS for front-end. Watching movies and reading books are my favorite pastime hobbies.
+I’m a full stack junior web-developer. I can find and solve your code bugs easily thus increasing your productivity greatly. My expertise lies in the front and the back end of your web pages, for the Backend I like to work in Laravel, Node.js, and sometimes Django, as for the frontend I feel comefortable in React.js and Vue.js. I am a big movie fan, I like going to the cenima with my friends and play some games afterwords 😄.
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihakim773&theme=transparent&show_icons=true) 
 
@@ -13,7 +13,7 @@ I’m a full stack junior web-developer. I can find and solve your code bugs eas
 - Laravel
 - NodeJS
 - Django
-- ASP.NET 6
+- ASP.NET
 - SQL
 - PHP
 - JS
@@ -27,4 +27,4 @@ I’m a full stack junior web-developer. I can find and solve your code bugs eas
 - ⚡ Fun fact: I love to play games
 
 ## Social Links
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AliHakim773)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ali-hakim-923657227/)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AliHakim773)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alihakim2000/)  
