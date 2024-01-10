@@ -3,7 +3,7 @@
  <img src='https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png' alt='Hellow world' >
 
 ## BIO
-I’m a full stack junior web-developer. I can find and solve your code bugs easily thus increasing your productivity greatly. My expertise lies in the front and the back end of your web pages, for the Backend I like to work in Laravel, Node.js, and sometimes Django, as for the frontend I feel comefortable in React.js and Vue.js. I am a big movie fan, I like going to the cenima with my friends and play some games afterwords 😄.
+I’m a full stack junior web-developer. I can find and solve your code bugs easily thus increasing your productivity greatly. My expertise lies in the front and the back end of your web pages, for the Backend I like to work in Laravel, Node.js, and sometimes Django, as for the frontend I feel comefortable in React.js and Vue.js. I am a big movie fan 🎥, I like going to the cenima with my friends and play some games afterwords 😄.
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihakim773&theme=transparent&show_icons=true) 
 
