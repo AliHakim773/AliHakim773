@@ -9,10 +9,10 @@ I’m a full stack junior web-developer. I can find and solve your code bugs eas
 
 ## Skills
 
-- REACTJS
-- VUEJS
+- React
+- Vue.js
 - Laravel
-- NodeJS
+- Node.js
 - Django
 - ASP.NET
 - SQL
