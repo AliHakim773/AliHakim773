@@ -18,8 +18,6 @@ I’m a full stack junior web-developer. I can find and solve your code bugs eas
 - SQL
 - PHP
 - JS
-- HTML
-- CSS
 
 ## More About Me
 
