@@ -15,9 +15,11 @@ I’m a full stack junior web-developer. I can find and solve your code bugs eas
 - Vue.js
 - Django
 - ASP.NET
+- MongoDB
 - SQL
 - PHP
-- JS
+- Javascript
+- Typescript
 
 ## More About Me
 
